@@ -1,0 +1,1 @@
+Part 8 complete, expected time for completion is end of day 10/3
